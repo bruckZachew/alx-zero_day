@@ -1,1 +1,3 @@
-git man ready!
+performing some git commands and branches.
+updating from gitgub him self.
+
